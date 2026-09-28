@@ -1,5 +1,7 @@
+An animation of a cat and mouse chase, on a Lissajous curve path to plot their movements, against a phyllotactic background.
+
 **Key Features**
-- Phyllotactic spiral background, moving slowly outward and rotating by the Golden Angle
+- Phyllotactic spiral background, moving slowly outward and rotating by the Golden Angle 137.507764
 - Sketch of two distinct animals (cat & mouse) that can scale larger or smaller
 - Both animals follow a Lissajous curve path at different values of t (time parameter determining x and y positions) - This can be varied
 - Disappearing trails stored in a fixed size array
